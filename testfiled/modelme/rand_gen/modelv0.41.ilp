@@ -1,0 +1,306 @@
+\ Model _copy
+\ LP format - for model browsing. Use MPS format to capture full model detail.
+Minimize
+ 
+Subject To
+ R81204: - 1e+06 [md] + [xV1,d] + [xV2,d] + [xV3,d] + [xV4,d] + [xV5,d]
+   + [xV6,d] + [xV7,d] + [xV8,d] + [xV9,d] + [xV10,d] + [xV11,d] + [xV12,d]
+   + [xV13,d] + [xV14,d] + [xV15,d] + [xV16,d] + [xV17,d] + [xV18,d]
+   + [xV19,d] + [xV20,d] + [xV21,d] + [xV22,d] + [xV23,d] + [xV24,d]
+   + [xV25,d] + [xV26,d] + [xV27,d] + [xV28,d] + [xV29,d] + [xV30,d]
+   + [xV31,d] + [xV32,d] + [xV33,d] + [xV34,d] + [xV35,d] + [xV36,d]
+   + [xV37,d] + [xV38,d] + [xV39,d] + [xV40,d] + [xV41,d] + [xV42,d]
+   + [xV43,d] + [xV44,d] + [xV45,d] + [xV46,d] + [xV47,d] + [xV48,d]
+   + [xV49,d] + [xV50,d] + [xV51,d] + [xV52,d] + [xV53,d] + [xV54,d]
+   + [xV55,d] + [xV56,d] + [xV57,d] + [xV58,d] + [xV59,d] + [xV60,d]
+   + [xV61,d] + [xV62,d] + [xV63,d] + [xV64,d] + [xV65,d] + [xV66,d]
+   + [xV67,d] + [xV68,d] + [xV69,d] + [xV70,d] + [xV71,d] + [xV72,d]
+   + [xV73,d] + [xV74,d] + [xV75,d] + [xV76,d] + [xV77,d] + [xV78,d]
+   + [xV79,d] + [xV80,d] + [xV81,d] + [xV82,d] + [xV83,d] + [xV84,d]
+   + [xV85,d] + [xV86,d] + [xV87,d] + [xV88,d] + [xV89,d] + [xV90,d]
+   + [xV91,d] + [xV92,d] + [xV93,d] + [xV94,d] + [xV95,d] + [xV96,d]
+   + [xV97,d] + [xV98,d] + [xV99,d] + [xV100,d] + [xV101,d] + [xV102,d]
+   + [xV103,d] + [xV104,d] + [xV105,d] + [xV106,d] + [xV107,d] + [xV108,d]
+   + [xV109,d] + [xV110,d] + [xV111,d] + [xV112,d] + [xV113,d] + [xV114,d]
+   + [xV115,d] + [xV116,d] + [xV117,d] + [xV118,d] + [xV119,d] + [xV120,d]
+   + [xV121,d] + [xV122,d] + [xV123,d] + [xV124,d] + [xV125,d] + [xV126,d]
+   + [xV127,d] + [xV128,d] + [xV129,d] + [xV130,d] + [xV131,d] + [xV132,d]
+   + [xV133,d] + [xV134,d] + [xV135,d] + [xV136,d] + [xV137,d] + [xV138,d]
+   + [xV139,d] + [xV140,d] + [xV141,d] + [xV142,d] + [xV143,d] + [xV144,d]
+   + [xV145,d] + [xV146,d] + [xV147,d] + [xV148,d] + [xV149,d] + [xV150,d]
+   + [xV151,d] + [xV152,d] + [xV153,d] + [xV154,d] + [xV155,d] + [xV156,d]
+   + [xV157,d] + [xV158,d] + [xV159,d] + [xV160,d] + [xV161,d] + [xV162,d]
+   + [xV163,d] + [xV164,d] + [xV165,d] + [xV166,d] + [xV167,d] + [xV168,d]
+   + [xV169,d] + [xV170,d] + [xV171,d] + [xV172,d] + [xV173,d] + [xV174,d]
+   + [xV175,d] + [xV176,d] + [xV177,d] + [xV178,d] + [xV179,d] + [xV180,d]
+   + [xV181,d] + [xV182,d] + [xV183,d] + [xV184,d] + [xV185,d] + [xV186,d]
+   + [xV187,d] + [xV188,d] + [xV189,d] + [xV190,d] + [xV191,d] + [xV192,d]
+   + [xV193,d] + [xV194,d] + [xV195,d] + [xV196,d] + [xV197,d] + [xV198,d]
+   + [xV199,d] + [xV200,d] + [xa,d] >= 0
+ R81205: - 1e+06 [md] + [xV1,d] + [xV2,d] + [xV3,d] + [xV4,d] + [xV5,d]
+   + [xV6,d] + [xV7,d] + [xV8,d] + [xV9,d] + [xV10,d] + [xV11,d] + [xV12,d]
+   + [xV13,d] + [xV14,d] + [xV15,d] + [xV16,d] + [xV17,d] + [xV18,d]
+   + [xV19,d] + [xV20,d] + [xV21,d] + [xV22,d] + [xV23,d] + [xV24,d]
+   + [xV25,d] + [xV26,d] + [xV27,d] + [xV28,d] + [xV29,d] + [xV30,d]
+   + [xV31,d] + [xV32,d] + [xV33,d] + [xV34,d] + [xV35,d] + [xV36,d]
+   + [xV37,d] + [xV38,d] + [xV39,d] + [xV40,d] + [xV41,d] + [xV42,d]
+   + [xV43,d] + [xV44,d] + [xV45,d] + [xV46,d] + [xV47,d] + [xV48,d]
+   + [xV49,d] + [xV50,d] + [xV51,d] + [xV52,d] + [xV53,d] + [xV54,d]
+   + [xV55,d] + [xV56,d] + [xV57,d] + [xV58,d] + [xV59,d] + [xV60,d]
+   + [xV61,d] + [xV62,d] + [xV63,d] + [xV64,d] + [xV65,d] + [xV66,d]
+   + [xV67,d] + [xV68,d] + [xV69,d] + [xV70,d] + [xV71,d] + [xV72,d]
+   + [xV73,d] + [xV74,d] + [xV75,d] + [xV76,d] + [xV77,d] + [xV78,d]
+   + [xV79,d] + [xV80,d] + [xV81,d] + [xV82,d] + [xV83,d] + [xV84,d]
+   + [xV85,d] + [xV86,d] + [xV87,d] + [xV88,d] + [xV89,d] + [xV90,d]
+   + [xV91,d] + [xV92,d] + [xV93,d] + [xV94,d] + [xV95,d] + [xV96,d]
+   + [xV97,d] + [xV98,d] + [xV99,d] + [xV100,d] + [xV101,d] + [xV102,d]
+   + [xV103,d] + [xV104,d] + [xV105,d] + [xV106,d] + [xV107,d] + [xV108,d]
+   + [xV109,d] + [xV110,d] + [xV111,d] + [xV112,d] + [xV113,d] + [xV114,d]
+   + [xV115,d] + [xV116,d] + [xV117,d] + [xV118,d] + [xV119,d] + [xV120,d]
+   + [xV121,d] + [xV122,d] + [xV123,d] + [xV124,d] + [xV125,d] + [xV126,d]
+   + [xV127,d] + [xV128,d] + [xV129,d] + [xV130,d] + [xV131,d] + [xV132,d]
+   + [xV133,d] + [xV134,d] + [xV135,d] + [xV136,d] + [xV137,d] + [xV138,d]
+   + [xV139,d] + [xV140,d] + [xV141,d] + [xV142,d] + [xV143,d] + [xV144,d]
+   + [xV145,d] + [xV146,d] + [xV147,d] + [xV148,d] + [xV149,d] + [xV150,d]
+   + [xV151,d] + [xV152,d] + [xV153,d] + [xV154,d] + [xV155,d] + [xV156,d]
+   + [xV157,d] + [xV158,d] + [xV159,d] + [xV160,d] + [xV161,d] + [xV162,d]
+   + [xV163,d] + [xV164,d] + [xV165,d] + [xV166,d] + [xV167,d] + [xV168,d]
+   + [xV169,d] + [xV170,d] + [xV171,d] + [xV172,d] + [xV173,d] + [xV174,d]
+   + [xV175,d] + [xV176,d] + [xV177,d] + [xV178,d] + [xV179,d] + [xV180,d]
+   + [xV181,d] + [xV182,d] + [xV183,d] + [xV184,d] + [xV185,d] + [xV186,d]
+   + [xV187,d] + [xV188,d] + [xV189,d] + [xV190,d] + [xV191,d] + [xV192,d]
+   + [xV193,d] + [xV194,d] + [xV195,d] + [xV196,d] + [xV197,d] + [xV198,d]
+   + [xV199,d] + [xV200,d] + [xa,d] <= -1e+06
+Bounds
+ [xV1,d] free
+ [xV2,d] free
+ [xV3,d] free
+ [xV4,d] free
+ [xV5,d] free
+ [xV6,d] free
+ [xV7,d] free
+ [xV8,d] free
+ [xV9,d] free
+ [xV10,d] free
+ [xV11,d] free
+ [xV12,d] free
+ [xV13,d] free
+ [xV14,d] free
+ [xV15,d] free
+ [xV16,d] free
+ [xV17,d] free
+ [xV18,d] free
+ [xV19,d] free
+ [xV20,d] free
+ [xV21,d] free
+ [xV22,d] free
+ [xV23,d] free
+ [xV24,d] free
+ [xV25,d] free
+ [xV26,d] free
+ [xV27,d] free
+ [xV28,d] free
+ [xV29,d] free
+ [xV30,d] free
+ [xV31,d] free
+ [xV32,d] free
+ [xV33,d] free
+ [xV34,d] free
+ [xV35,d] free
+ [xV36,d] free
+ [xV37,d] free
+ [xV38,d] free
+ [xV39,d] free
+ [xV40,d] free
+ [xV41,d] free
+ [xV42,d] free
+ [xV43,d] free
+ [xV44,d] free
+ [xV45,d] free
+ [xV46,d] free
+ [xV47,d] free
+ [xV48,d] free
+ [xV49,d] free
+ [xV50,d] free
+ [xV51,d] free
+ [xV52,d] free
+ [xV53,d] free
+ [xV54,d] free
+ [xV55,d] free
+ [xV56,d] free
+ [xV57,d] free
+ [xV58,d] free
+ [xV59,d] free
+ [xV60,d] free
+ [xV61,d] free
+ [xV62,d] free
+ [xV63,d] free
+ [xV64,d] free
+ [xV65,d] free
+ [xV66,d] free
+ [xV67,d] free
+ [xV68,d] free
+ [xV69,d] free
+ [xV70,d] free
+ [xV71,d] free
+ [xV72,d] free
+ [xV73,d] free
+ [xV74,d] free
+ [xV75,d] free
+ [xV76,d] free
+ [xV77,d] free
+ [xV78,d] free
+ [xV79,d] free
+ [xV80,d] free
+ [xV81,d] free
+ [xV82,d] free
+ [xV83,d] free
+ [xV84,d] free
+ [xV85,d] free
+ [xV86,d] free
+ [xV87,d] free
+ [xV88,d] free
+ [xV89,d] free
+ [xV90,d] free
+ [xV91,d] free
+ [xV92,d] free
+ [xV93,d] free
+ [xV94,d] free
+ [xV95,d] free
+ [xV96,d] free
+ [xV97,d] free
+ [xV98,d] free
+ [xV99,d] free
+ [xV100,d] free
+ [xV101,d] free
+ [xV102,d] free
+ [xV103,d] free
+ [xV104,d] free
+ [xV105,d] free
+ [xV106,d] free
+ [xV107,d] free
+ [xV108,d] free
+ [xV109,d] free
+ [xV110,d] free
+ [xV111,d] free
+ [xV112,d] free
+ [xV113,d] free
+ [xV114,d] free
+ [xV115,d] free
+ [xV116,d] free
+ [xV117,d] free
+ [xV118,d] free
+ [xV119,d] free
+ [xV120,d] free
+ [xV121,d] free
+ [xV122,d] free
+ [xV123,d] free
+ [xV124,d] free
+ [xV125,d] free
+ [xV126,d] free
+ [xV127,d] free
+ [xV128,d] free
+ [xV129,d] free
+ [xV130,d] free
+ [xV131,d] free
+ [xV132,d] free
+ [xV133,d] free
+ [xV134,d] free
+ [xV135,d] free
+ [xV136,d] free
+ [xV137,d] free
+ [xV138,d] free
+ [xV139,d] free
+ [xV140,d] free
+ [xV141,d] free
+ [xV142,d] free
+ [xV143,d] free
+ [xV144,d] free
+ [xV145,d] free
+ [xV146,d] free
+ [xV147,d] free
+ [xV148,d] free
+ [xV149,d] free
+ [xV150,d] free
+ [xV151,d] free
+ [xV152,d] free
+ [xV153,d] free
+ [xV154,d] free
+ [xV155,d] free
+ [xV156,d] free
+ [xV157,d] free
+ [xV158,d] free
+ [xV159,d] free
+ [xV160,d] free
+ [xV161,d] free
+ [xV162,d] free
+ [xV163,d] free
+ [xV164,d] free
+ [xV165,d] free
+ [xV166,d] free
+ [xV167,d] free
+ [xV168,d] free
+ [xV169,d] free
+ [xV170,d] free
+ [xV171,d] free
+ [xV172,d] free
+ [xV173,d] free
+ [xV174,d] free
+ [xV175,d] free
+ [xV176,d] free
+ [xV177,d] free
+ [xV178,d] free
+ [xV179,d] free
+ [xV180,d] free
+ [xV181,d] free
+ [xV182,d] free
+ [xV183,d] free
+ [xV184,d] free
+ [xV185,d] free
+ [xV186,d] free
+ [xV187,d] free
+ [xV188,d] free
+ [xV189,d] free
+ [xV190,d] free
+ [xV191,d] free
+ [xV192,d] free
+ [xV193,d] free
+ [xV194,d] free
+ [xV195,d] free
+ [xV196,d] free
+ [xV197,d] free
+ [xV198,d] free
+ [xV199,d] free
+ [xV200,d] free
+ [xa,d] free
+Binaries
+ [md]
+Generals
+ [xV1,d] [xV2,d] [xV3,d] [xV4,d] [xV5,d] [xV6,d] [xV7,d] [xV8,d] [xV9,d]
+ [xV10,d] [xV11,d] [xV12,d] [xV13,d] [xV14,d] [xV15,d] [xV16,d] [xV17,d]
+ [xV18,d] [xV19,d] [xV20,d] [xV21,d] [xV22,d] [xV23,d] [xV24,d] [xV25,d]
+ [xV26,d] [xV27,d] [xV28,d] [xV29,d] [xV30,d] [xV31,d] [xV32,d] [xV33,d]
+ [xV34,d] [xV35,d] [xV36,d] [xV37,d] [xV38,d] [xV39,d] [xV40,d] [xV41,d]
+ [xV42,d] [xV43,d] [xV44,d] [xV45,d] [xV46,d] [xV47,d] [xV48,d] [xV49,d]
+ [xV50,d] [xV51,d] [xV52,d] [xV53,d] [xV54,d] [xV55,d] [xV56,d] [xV57,d]
+ [xV58,d] [xV59,d] [xV60,d] [xV61,d] [xV62,d] [xV63,d] [xV64,d] [xV65,d]
+ [xV66,d] [xV67,d] [xV68,d] [xV69,d] [xV70,d] [xV71,d] [xV72,d] [xV73,d]
+ [xV74,d] [xV75,d] [xV76,d] [xV77,d] [xV78,d] [xV79,d] [xV80,d] [xV81,d]
+ [xV82,d] [xV83,d] [xV84,d] [xV85,d] [xV86,d] [xV87,d] [xV88,d] [xV89,d]
+ [xV90,d] [xV91,d] [xV92,d] [xV93,d] [xV94,d] [xV95,d] [xV96,d] [xV97,d]
+ [xV98,d] [xV99,d] [xV100,d] [xV101,d] [xV102,d] [xV103,d] [xV104,d]
+ [xV105,d] [xV106,d] [xV107,d] [xV108,d] [xV109,d] [xV110,d] [xV111,d]
+ [xV112,d] [xV113,d] [xV114,d] [xV115,d] [xV116,d] [xV117,d] [xV118,d]
+ [xV119,d] [xV120,d] [xV121,d] [xV122,d] [xV123,d] [xV124,d] [xV125,d]
+ [xV126,d] [xV127,d] [xV128,d] [xV129,d] [xV130,d] [xV131,d] [xV132,d]
+ [xV133,d] [xV134,d] [xV135,d] [xV136,d] [xV137,d] [xV138,d] [xV139,d]
+ [xV140,d] [xV141,d] [xV142,d] [xV143,d] [xV144,d] [xV145,d] [xV146,d]
+ [xV147,d] [xV148,d] [xV149,d] [xV150,d] [xV151,d] [xV152,d] [xV153,d]
+ [xV154,d] [xV155,d] [xV156,d] [xV157,d] [xV158,d] [xV159,d] [xV160,d]
+ [xV161,d] [xV162,d] [xV163,d] [xV164,d] [xV165,d] [xV166,d] [xV167,d]
+ [xV168,d] [xV169,d] [xV170,d] [xV171,d] [xV172,d] [xV173,d] [xV174,d]
+ [xV175,d] [xV176,d] [xV177,d] [xV178,d] [xV179,d] [xV180,d] [xV181,d]
+ [xV182,d] [xV183,d] [xV184,d] [xV185,d] [xV186,d] [xV187,d] [xV188,d]
+ [xV189,d] [xV190,d] [xV191,d] [xV192,d] [xV193,d] [xV194,d] [xV195,d]
+ [xV196,d] [xV197,d] [xV198,d] [xV199,d] [xV200,d] [xa,d]
+End

@@ -1,0 +1,14 @@
+\ Model _copy
+\ LP format - for model browsing. Use MPS format to capture full model detail.
+Minimize
+ 
+Subject To
+ R14: [xd,V8] - 1e+06 [zd,V8] <= -999999
+ R579: [xd,V8] >= 3
+Bounds
+ [xd,V8] free
+Binaries
+ [zd,V8]
+Generals
+ [xd,V8]
+End

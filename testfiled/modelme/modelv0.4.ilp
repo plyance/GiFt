@@ -1,0 +1,15 @@
+\ Model _copy
+\ LP format - for model browsing. Use MPS format to capture full model detail.
+Minimize
+ 
+Subject To
+ R992: [xV10,V13] - 1e+06 [yV10,V13] <= 0
+ R993: 1e+06 [yV10,V13] + [xV13,V10] <= 1e+06
+Bounds
+ [xV10,V13] >= 1
+ [xV13,V10] >= 1
+Binaries
+ [yV10,V13]
+Generals
+ [xV10,V13] [xV13,V10]
+End
